@@ -1,7 +1,6 @@
 
 
 function sum(a, b) {
-  return a + b
 }
 
 const res = sum(a, b)
